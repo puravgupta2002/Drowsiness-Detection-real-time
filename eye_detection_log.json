@@ -1,0 +1,123 @@
+[
+    {
+        "frame": 1,
+        "timestamp": "2025-04-12 02:40:28",
+        "status": "Eyes not detected",
+        "alert": "SPAM ALERT"
+    },
+    {
+        "frame": 2,
+        "timestamp": "2025-04-12 02:40:29",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 3,
+        "timestamp": "2025-04-12 02:40:29",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 4,
+        "timestamp": "2025-04-12 02:40:29",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 5,
+        "timestamp": "2025-04-12 02:40:30",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 6,
+        "timestamp": "2025-04-12 02:40:30",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 7,
+        "timestamp": "2025-04-12 02:40:31",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 8,
+        "timestamp": "2025-04-12 02:40:31",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 9,
+        "timestamp": "2025-04-12 02:40:31",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 10,
+        "timestamp": "2025-04-12 02:40:32",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 11,
+        "timestamp": "2025-04-12 02:40:32",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 12,
+        "timestamp": "2025-04-12 02:40:33",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 13,
+        "timestamp": "2025-04-12 02:40:33",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 14,
+        "timestamp": "2025-04-12 02:40:33",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 15,
+        "timestamp": "2025-04-12 02:40:34",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 16,
+        "timestamp": "2025-04-12 02:40:34",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 17,
+        "timestamp": "2025-04-12 02:40:35",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 18,
+        "timestamp": "2025-04-12 02:40:35",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 19,
+        "timestamp": "2025-04-12 02:40:35",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 20,
+        "timestamp": "2025-04-12 02:40:36",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 21,
+        "timestamp": "2025-04-12 02:40:36",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 22,
+        "timestamp": "2025-04-12 02:40:36",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 23,
+        "timestamp": "2025-04-12 02:40:37",
+        "status": "Eyes detected"
+    },
+    {
+        "frame": 24,
+        "timestamp": "2025-04-12 02:40:37",
+        "status": "Eyes detected"
+    }
+]
